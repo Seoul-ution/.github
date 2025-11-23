@@ -1,4 +1,10 @@
 <div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00B89C&width=410&height=100&lines=Welcome+to+SEOUL%3Aution!" alt="Typing SVG" />
+    </a>
+</div>
+
+<div align="center">
     <p>안녕하세요! <b>Team NEXA</b>입니다.</p>
     <p>해커톤 개발 사항을 안내해 드립니다.</p>
 </div>
@@ -20,10 +26,4 @@
     <h3><code>Final</code></h3>
     <p>11월 29일 최종 평가 전까지 아래 내용을 포함하여 <code>README.md</code> 파일을 작성해 주세요.</p>
     <code>서비스 이름 | 서비스 소개 | 서비스 핵심 기능 | 각 팀원의 상세 수행 내용</code>
-</div>
-<br /><br />
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00B89C&width=410&height=100&lines=Welcome+to+SEOUL%3Aution!" alt="Typing SVG" />
-    </a>
 </div>
